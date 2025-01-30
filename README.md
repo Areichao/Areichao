@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Annabel
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Areichao&layout=compact)
 
 <!--
 **Areichao/Areichao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
