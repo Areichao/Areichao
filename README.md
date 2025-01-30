@@ -1,6 +1,10 @@
 ## Hi I'm Annabel
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Areichao&theme=tokyonight)
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats-p2tj96jt7-areichaos-projects.vercel.app/api?username=Areichao&show_icons=true&count_private=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-p2tj96jt7-areichaos-projects.vercel.app/api/top-langs/?username=Areichao&layout=compact&count_private=true&theme=radical)
+
 
 
 <!--
