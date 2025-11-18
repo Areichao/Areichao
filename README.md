@@ -1,9 +1,10 @@
 ## Hi I'm Annabel
 
 ### 📊 GitHub Stats:
-<!-- ![Your GitHub Stats](github-readme-stats-areichaos-projects.vercel.app/api?username=Areichao&show_icons=true&count_private=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-p2tj96jt7-areichaos-projects.vercel.app/api/top-langs/?username=Areichao&layout=compact&count_private=true&theme=radical) -->
+![](https://raw.githubusercontent.com/Areichao/snapshot/main/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Areichao/snapshot/main/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Areichao/snapshot/main/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Areichao/snapshot/main/generated/languages.svg#gh-light-mode-only)
 
 
 
