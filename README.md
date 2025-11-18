@@ -1,10 +1,10 @@
 ## Hi I'm Annabel
 
 ### 📊 GitHub Stats:
-![](https://raw.githubusercontent.com/Areichao/snapshot/main/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Areichao/snapshot/main/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Areichao/snapshot/main/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Areichao/snapshot/main/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Areichao/GOsnapshotCopy/main/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Areichao/GOsnapshotCopy/main/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Areichao/GOsnapshotCopy/main/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Areichao/GOsnapshotCopy/main/generated/languages.svg#gh-light-mode-only)
 
 
 
